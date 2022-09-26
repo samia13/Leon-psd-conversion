@@ -522,6 +522,7 @@ footer p span {
   }
   .contact .detail .socials {
     flex-direction: column;
+    margin-left: 0;
   }
   .contact .detail .socials p {
     margin-right: 0;
