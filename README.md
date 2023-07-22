@@ -1,4 +1,4 @@
-# Template-design-one
+This is a PSD to HTML5/CSS3 conversion - Leon Template Design
 
 ## Welcome! 👋
 
@@ -9,7 +9,7 @@ The Landing page is fully responisve
 i tried to make it looking as close to the design as possible.
 
 
-# Live Preview
+## Live Preview
 
 [Preview Site](https://samia13.github.io/Template-design-one/)
 
